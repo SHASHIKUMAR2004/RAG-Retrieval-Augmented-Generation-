@@ -1,5 +1,6 @@
 # RAG-Retrieval-Augmented-Generation-
 Architecture & Flow
+
 📁 1. Document Preprocessing & Embedding
 All PDF files or raw documents are first converted into text chunks using a separate script (test_conversion.py or similar).
 
